@@ -1,7 +1,3 @@
-from linguist.libs.file_blob import FileBlob
-
-FileBlob('test.py').language.name #=> 'Python'
-
 #read url text instead of text files
 ##import urllib
 ##
