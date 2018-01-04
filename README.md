@@ -1,4 +1,4 @@
 # Cadastre
-Repository of python scripts using the ESRI Arcpy package
+Repository of python scripts
 
 Copyright, Jack Andersen - Wisecloud.dk
